@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(170, 8, 62);
+  color: white;
+}
+
+h1{
+  padding: 15px;
+  margin: 70px;
+}
+
+table {
+    color: #FFFFF0;
+    border: 2px solid #01579B;
+    font-family: arial, sans-serif;
+    margin: 70px;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    color: #FFFFF0;
+    border: 2px solid #01579B;
+    text-align: center;
+    padding: 15px 12px;
+}
+.invisible {
+  display: none;
+ }
